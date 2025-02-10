@@ -33,3 +33,7 @@ The **Attention Weights Visualizer** is a Python tool for extracting and visuali
    ```bash
    git clone https://github.com/yourusername/attention-weights-visualizer.git
    cd attention-weights-visualizer
+
+## Example of image
+![Example image](https://raw.githubusercontent.com/pabblo2000/Plot_LLM/master/img/gpt2/layer_0.png)
+
